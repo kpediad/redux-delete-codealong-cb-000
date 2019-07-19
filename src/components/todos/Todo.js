@@ -1,5 +1,5 @@
 import React from 'react'
- 
+
 const Todo = props => {
   return (
     <div>
@@ -7,5 +7,5 @@ const Todo = props => {
     </div>
   )
 }
- 
+
 export default Todo;
